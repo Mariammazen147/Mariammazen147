@@ -2,7 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw5bmV4OHhqdDl5YTl6Z3JmbTR5OXBwd3Jtemw0dmV6Y3N4a3k4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" width="300"/>
 </div>
 
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mariam-mazen-437900153/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/mariam_mazen">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 - 👋 Hi, I’m Mariam 
 - 👀 I’m interested in reading
