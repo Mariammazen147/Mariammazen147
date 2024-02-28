@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Mariammazen147&style=flat-square&color=blue" alt=""/>
 
 - 👋 Hi, I’m Mariam 
 - 👀 I’m interested in reading
