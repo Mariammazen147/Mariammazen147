@@ -30,7 +30,7 @@
 
 - 🎵 In my free time, I learn languages, read romance books and listen to music.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mariam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-mazen-437900153/)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Mariam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-mazen-437900153/)
 - <img src="https://media.giphy.com/media/GT6tO2NRljURjm7wSV/giphy.gif" width="30px"/> Languages: English, Arabic, Spanish, German, French
 
 
