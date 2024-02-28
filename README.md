@@ -22,10 +22,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- 👋 Hi, I’m Mariam 
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning spanish as my fifth language and I'm in my second year of college 
-- 📫 How to reach me, you could email me on Mariam.Mazen.Anwer@gmail.com
+- 🌱 I am a Software Engineer student at ALX.
+
+- 👩‍🎓 I’m a sophomore in computer science at Cairo University.
+
+- 🎵 In my free time, I learn languages, read romance books and listen to music.
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-mazen-437900153/)
+- <img src="https://media.giphy.com/media/GT6tO2NRljURjm7wSV/giphy.gif" width="600" height="300"/> Languages: English, Arabic, Spanish, German, French
+
+
 
 <!---
 Mariammazen147/Mariammazen147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
