@@ -28,9 +28,9 @@
 
 - 🌱 I am a Software Engineer student at ALX.
 
-- 👩‍🎓 I’m a sophomore in computer science at Cairo University.
+- 👩‍🎓 I’m a junior in computer science at Cairo University.
 
-- 🎵 In my free time, I learn languages, read romance books and listen to music.
+- 🎵 In my free time, I learn languages, read novels and listen to music.
 
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Mariam-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-mazen-437900153/)
 - 😄 Languages: English, Arabic, Spanish, German, French
