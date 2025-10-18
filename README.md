@@ -28,7 +28,7 @@
 
 - 🌱 I am a Software Engineer student at ALX.
 
-- 👩‍🎓 I’m a junior in computer science at Cairo University.
+- 👩‍🎓 I’m a senior in computer science at Cairo University.
 
 - 🎵 In my free time, I learn languages, read novels and listen to music.
 
